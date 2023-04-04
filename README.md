@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Deployed Website : https://music-player-3asw4zr8l-swapzzzgit.vercel.app/
+Deployed Website : https://music-player-rho-two.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
